@@ -1,0 +1,125 @@
+/*-- FONT --*/
+.font-title-main-1 {
+	font-size: 50px;
+	font-weight: 500;
+	line-height: 60px;
+}
+
+.font-subtext-main-1  {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.font-title-main {
+	font-size: 40px;
+	font-weight: 500;
+	line-height: 50px;
+}
+
+.font-subtext-main  {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+
+
+
+/*-- SECTION - MAIN  --*/
+
+.section-main-left-text {
+	align-self: center;
+}
+
+.section-main-left {
+	align-self: center;
+	justify-self: center;
+}
+
+.section-main-right {
+	align-self: center;
+	justify-self: center;
+}
+
+.section-main-right-text {
+	align-self: center;
+}
+
+
+
+/*-- SECTION - MAIN - 1  --*/
+.section-main-1 {
+	background-color: #ffcc4d;
+}
+
+
+.section-main-1-sizer {
+	max-width: 1200px;
+	margin-top: 40px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section-main-1-inner {
+	display: grid;
+	grid-template-rows: auto;
+	grid-template-columns: 1.75fr 1fr;
+}
+
+
+/*-- SECTION - MAIN - 2  --*/
+.section-main-2 {
+	background-color: #fffef3;
+}
+
+
+.section-main-2-sizer {
+	max-width: 1200px;
+	margin-top: 40px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section-main-2-inner {
+	display: grid;
+	grid-template-rows: auto;
+	grid-template-columns: 1fr 1.75fr;
+}
+
+
+/*-- SECTION - MAIN - 3  --*/
+.section-main-3 {
+	background-color: #fffef3;
+}
+
+
+.section-main-3-sizer {
+	max-width: 1200px;
+	margin-top: 40px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section-main-3-inner {
+	display: grid;
+	grid-template-rows: auto;
+	grid-template-columns: 1.75fr 1fr;
+}
+
+
+
+
+
+
+
+
+
+

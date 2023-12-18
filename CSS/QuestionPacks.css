@@ -1,0 +1,82 @@
+
+/*-- FONTS --*/
+
+
+.font-questionpack-title  {
+	color: #2f323a;
+	justify-content: center;
+	font-weight: 500;
+	text-decoration: none;
+	display: flex;
+	font-size: 24px;
+}
+
+
+.font-questionpack-description  {
+	color: #2f323a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: 400;
+	text-decoration: none;
+	display: flex;
+	font-size: 14px;
+}
+
+
+
+
+/*-- SECTION - PACK GROUP  --*/
+.section-packgroup {
+	background-color: #fffef3;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+.section-packgroup-sizer {
+	max-width: 1200px;
+	margin-top: 40px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section-packgroup-inner {
+	display: grid;
+	grid-template-rows: auto;
+	grid-template-columns: 1.75fr 1fr;
+}
+
+
+.section-packgroup-holder {
+	grid-column-gap: 16px;
+	display: grid;
+	grid-template-rows: auto;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	
+}
+
+
+
+
+
+/*-- PACK GROUP SPECIFIC  --*/
+.pack-group-specific {
+	padding: 10px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+}
+
+
+
+
+/*-- IMAGE QUESTION PACK  --*/
+.image-questionpack{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+
+
+
+

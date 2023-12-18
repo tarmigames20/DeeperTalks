@@ -1,0 +1,156 @@
+/*-- TEST ZZ REMOVE --*/
+/* border: 1px solid #a1a1a1; 
+*/
+div {
+	border: 1px solid #a1a1a1; 
+}
+
+
+/*-- HTML --*/
+html {
+	font-family: Poppins, sans-serif;
+	background-color: #fffef3;
+	color: #2f323a;
+}
+
+
+/*-- BODY --*/
+body {
+	margin: 0px;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+
+/*-- FONT --*/
+.a-font-suppress-hyperlink  {
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+/*-- SECTION - HEADER  --*/
+.section-header {
+	background-color: #ffcc4d;
+}
+
+/*-- section-header-holder --*/
+.section-header-sizer {
+	max-width: 1200px;
+	height: 89px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffcc4d;
+}
+
+
+.section-header-logo {
+	float: left;
+	position: relative;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.section-header-tabs {
+	float: right;
+	position: relative;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+
+
+/*-- SECTION - FOOTER  --*/
+.section-footer {
+	background-color: #2f323a;
+}
+
+
+.section-footer-socials {
+	padding-top: 40px;
+	padding-bottom: 60px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #2f323a;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+
+.section-footer-socials-buffer {
+	display: inline-block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+
+
+/*-- DOWNLOAD  --*/
+.download-link-holder {
+	display: inline-block;
+}
+
+
+
+/*-- TAB  --*/
+.tab {
+	color: #2f323a;
+	font-weight: 500;
+	vertical-align: top;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	text-decoration: none;
+	position: relative;
+	display: inline-block;
+}
+
+
+
+/*-- IMAGE SOCIAL  --*/
+.image-social{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+/*-- IMAGE STORE  --*/
+.image-store-gp{
+	margin: 0px;
+    height: 75px;
+	width: 254px;
+}
+
+.image-store-as{
+	margin: 0px;
+    height: 75px;
+	width: 224px;
+}
+
+
+
+/*-- IMAGE SCREENSHOT  --*/
+.image-screenshot{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+    height: auto;
+	width: 50%;
+	min-width: 120px;
+}
+
+
+
+
+
