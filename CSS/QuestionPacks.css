@@ -1,17 +1,5 @@
 
 /*-- FONTS --*/
-
-
-.font-questionpack-title  {
-	color: #2f323a;
-	justify-content: center;
-	font-weight: 500;
-	text-decoration: none;
-	display: flex;
-	font-size: 24px;
-}
-
-
 .font-questionpack-description  {
 	color: #2f323a;
 	margin-top: 10px;
@@ -22,42 +10,50 @@
 	font-size: 14px;
 }
 
-
-
+/*-- SECTION - TITLE  --*/
+.section-title {
+	font-size: 50px;
+	font-weight: 500;
+	line-height: 60px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
 
 /*-- SECTION - PACK GROUP  --*/
 .section-packgroup {
 	background-color: #fffef3;
-	margin-top: 50px;
-	margin-bottom: 50px;
 }
 
 
 .section-packgroup-sizer {
 	max-width: 1200px;
-	margin-top: 40px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 
-.section-packgroup-inner {
-	display: grid;
-	grid-template-rows: auto;
-	grid-template-columns: 1.75fr 1fr;
-}
 
 
 .section-packgroup-holder {
 	grid-column-gap: 16px;
+	grid-row-gap: 16px;
 	display: grid;
 	grid-template-rows: auto;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
-	
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 
-
+@media (max-width: 800px) 
+{
+	.section-packgroup-holder {
+	grid-template-columns: 1fr 1fr;
+	}
+}
 
 
 /*-- PACK GROUP SPECIFIC  --*/
@@ -66,7 +62,16 @@
 	box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
 }
 
-
+.pack-group-specific-title  {
+	color: #2f323a;
+	justify-content: center;
+	font-weight: 500;
+	text-decoration: none;
+	display: flex;
+	font-size: 24px;
+	margin-top: 10px;
+	text-align: center;
+}
 
 
 /*-- IMAGE QUESTION PACK  --*/
