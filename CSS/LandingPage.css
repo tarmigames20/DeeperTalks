@@ -30,28 +30,6 @@
 
 
 
-/*-- SECTION - MAIN  --*/
-
-.section-main-left-text {
-	align-self: center;
-}
-
-.section-main-left {
-	align-self: center;
-	justify-self: center;
-}
-
-.section-main-right {
-	align-self: center;
-	justify-self: center;
-}
-
-.section-main-right-text {
-	align-self: center;
-}
-
-
-
 /*-- SECTION - MAIN - 1  --*/
 .section-main-1 {
 	background-color: #ffcc4d;
@@ -69,7 +47,31 @@
 	display: grid;
 	grid-template-rows: auto;
 	grid-template-columns: 1.75fr 1fr;
+	padding-left: 20px;
+	padding-right: 20px;
 }
+
+@media (max-width: 800px) 
+{
+	.section-main-1-inner  {
+	grid-template-columns: 1fr;
+	}
+}
+
+.section-main-1-left {
+	align-self: center;
+	justify-self: center;
+	display: block;
+}
+
+
+.section-main-1-right {
+	align-self: center;
+	justify-self: center;
+	display: block;
+}
+
+
 
 
 /*-- SECTION - MAIN - 2  --*/
@@ -90,6 +92,28 @@
 	display: grid;
 	grid-template-rows: auto;
 	grid-template-columns: 1fr 1.75fr;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+@media (max-width: 800px) 
+{
+	.section-main-2-inner  {
+	grid-template-columns: 1fr;
+	}
+}
+
+.section-main-2-left {
+	align-self: center;
+	justify-self: center;
+	display: block;
+}
+
+
+.section-main-2-right {
+	align-self: center;
+	justify-self: center;
+	display: block;
 }
 
 
@@ -111,8 +135,29 @@
 	display: grid;
 	grid-template-rows: auto;
 	grid-template-columns: 1.75fr 1fr;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
+@media (max-width: 800px) 
+{
+	.section-main-3-inner  {
+	grid-template-columns: 1fr;
+	}
+}
+
+.section-main-3-left {
+	align-self: center;
+	justify-self: center;
+	display: block;
+}
+
+
+.section-main-3-right {
+	align-self: center;
+	justify-self: center;
+	display: block;
+}
 
 
 

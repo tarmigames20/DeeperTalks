@@ -55,6 +55,13 @@
 	}
 }
 
+@media (max-width: 660px) 
+{
+	.section-packgroup-holder {
+	grid-template-columns: 1fr;
+	}
+}
+
 
 /*-- PACK GROUP SPECIFIC  --*/
 .pack-group-specific {
