@@ -190,12 +190,14 @@ body {
 /*-- IMAGE STORE  --*/
 .image-store-gp{
 	margin: 0px;
+	margin-right: 10px;
     height: 50px;
 	width: 170px;
 }
 
 .image-store-as{
 	margin: 0px;
+	margin-right: 10px;
     height: 50px;
 	width: 150px;
 }
