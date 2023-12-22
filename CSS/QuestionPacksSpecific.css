@@ -6,7 +6,19 @@
 	line-height: 60px;
 	padding-top: 20px;
 	margin-bottom: 20px;
+	text-align: center;
 }
+
+@media (max-width: 800px) 
+{
+	.questionpack-specific-title  {
+	font-size: 37px;
+	font-weight: 375;
+	line-height: 39px;
+	}
+}
+
+
 
 .questionpack-specific-description {
 	font-size: 14px;
@@ -50,7 +62,7 @@
 	font-weight: 400;
 	font-size: 14px;
 	display: inline-block;
-	margin-right: 10px;
+	margin-left: 10px;
 }
 
 
@@ -64,7 +76,7 @@
 
 
 .section-description-sizer {
-	max-width: 1200px;
+	max-width: 1000px;
 	margin-top: 40px;
 	display: block;
 	margin-left: auto;
@@ -84,8 +96,8 @@
 .section-store-redirect {
 
 	margin-top: 20px;
-	margin-bottom: 40px;
-	max-width: 1200px;
+	margin-bottom: 20px;
+	max-width: 1000px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -96,7 +108,10 @@
 	grid-template-rows: auto;
 	grid-template-columns: 1.75fr 1fr;
 	margin: 20px;
-	padding: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
 	background-color: #e2f2ff;
 }
 
@@ -171,6 +186,8 @@
 .image-rating{
 	margin: 0px;
 	padding: 2px;
+	width: 20px;
+	height: 20px;
 }
 
 

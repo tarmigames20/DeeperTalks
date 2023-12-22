@@ -2,6 +2,7 @@
 /* border: 1px solid #a1a1a1; 
 */
 
+
 div {
 
 }
@@ -169,13 +170,15 @@ body {
 	text-decoration: none;
 	position: relative;
 	display: block;
-	background-color: #c8c8c8;
+	background-color: #ffcc4d;
 }
 
 
 /*-- IMAGE MENU  --*/
 .image-menu{
 	display: block;
+	height: 25px;
+	width: 25px;
 }
 
 

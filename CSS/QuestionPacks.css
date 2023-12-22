@@ -12,13 +12,24 @@
 
 /*-- SECTION - TITLE  --*/
 .section-title {
-	font-size: 50px;
 	font-weight: 500;
+	font-size: 50px;
 	line-height: 60px;
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-bottom: 20px;
 }
+
+@media (max-width: 800px) 
+{
+	.section-title  {
+	font-weight: 375;
+	font-size: 37px;
+	line-height: 39px;
+	}
+}
+
+
 
 /*-- SECTION - PACK GROUP  --*/
 .section-packgroup {
@@ -38,17 +49,17 @@
 
 
 .section-packgroup-holder {
-	grid-column-gap: 16px;
-	grid-row-gap: 16px;
+	grid-column-gap: 25px;
+	grid-row-gap: 25px;
 	display: grid;
 	grid-template-rows: auto;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr;
 	margin-left: 20px;
 	margin-right: 20px;
 }
 
 
-@media (max-width: 800px) 
+@media (max-width: 1000px) 
 {
 	.section-packgroup-holder {
 	grid-template-columns: 1fr 1fr;
@@ -67,6 +78,7 @@
 .pack-group-specific {
 	padding: 10px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+	border-radius: 15px;
 }
 
 .pack-group-specific-title  {
@@ -78,14 +90,19 @@
 	font-size: 24px;
 	margin-top: 10px;
 	text-align: center;
+	line-height: 30px;
 }
 
 
 /*-- IMAGE QUESTION PACK  --*/
 .image-questionpack{
+	margin-top: 10px;
+	margin-bottom: 20px;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+	width: 90px;
+	height: 90px;
 }
 
 

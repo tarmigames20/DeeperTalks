@@ -17,7 +17,7 @@
 	
 	<!-- CSS -->
 	<meta charset="utf-8">
-	<link rel="stylesheet" href="https://tarmigames20.github.io/DeeperTalks/CSS/Main.css">
+	<link rel="stylesheet" href="https://tarmigames20.github.io/DeeperTalks/CSS/Main.css"> 
 	<link rel="stylesheet" href="https://tarmigames20.github.io/DeeperTalks/CSS/LandingPage.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:regular,500,600,700,800,900" media="all">
 
@@ -104,16 +104,38 @@
 	<div class="section-main-2">
 		<div class="section-main-2-sizer">
 			<div class="section-main-2-inner">
+				<div class="section-main-2-right" id="section-main-2-small">
+					<div class="font-title-main">Ask the questions you haven't had a chance to ask</div>
+					<div class="font-subtext-main">Discuss personal, intimate, and sexy topics together during date night. Build a deeper understanding of each other on a variety of topics.</div>
+				</div>
 				<div class="section-main-2-left">
 					<img class="image-screenshot" src="https://tarmigames20.github.io/DeeperTalks/Images/Screenshot/Screenshot_2.png" loading="lazy" width="300" alt="Questions to ask your husband">
 				</div>
-				<div class="section-main-2-right">
+				<div class="section-main-2-right" id="section-main-2-standard">
 					<div class="font-title-main">Ask the questions you haven't had a chance to ask</div>
 					<div class="font-subtext-main">Discuss personal, intimate, and sexy topics together during date night. Build a deeper understanding of each other on a variety of topics.</div>
 				</div>
 			</div>
 		</div>
     </div>
+
+	<!-- **** SCRIPT **** -->
+	<script>
+		window.addEventListener('resize', function() {
+		var section2small = document.getElementById("section-main-2-small");
+		var section2standard = document.getElementById("section-main-2-standard");
+		if (window.innerWidth < 800) {
+		section2small.style.display = "block";
+		section2standard.style.display = "none";
+		}
+		if (window.innerWidth > 800) {
+		section2small.style.display = "none";
+		section2standard.style.display = "block";
+		}
+		});
+	</script>
+	<!-- **** SCRIPT **** -->
+
 	<!-- **** SECTION MAIN 2 **** -->
 	
 

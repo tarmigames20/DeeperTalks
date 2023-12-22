@@ -1,30 +1,69 @@
 /*-- FONT --*/
 .font-title-main-1 {
-	font-size: 50px;
 	font-weight: 500;
-	line-height: 60px;
+	font-size: 50px;
+	line-height: 52px;
+	margin-top: 20px;
 }
 
+
+@media (max-width: 800px) 
+{
+	.font-title-main-1  {
+	font-weight: 375;
+	font-size: 38px;
+	line-height: 40px;
+	}
+}
+
+
 .font-subtext-main-1  {
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 22px;
 	margin-top: 20px;
 	margin-bottom: 20px;
-	font-size: 20px;
-	font-weight: 400;
-	line-height: 24px;
+}
+
+@media (max-width: 800px) 
+{
+	.font-subtext-main-1  {
+	font-weight: 300;
+	font-size: 15px;
+	line-height: 17px;
+	}
 }
 
 .font-title-main {
-	font-size: 40px;
 	font-weight: 500;
+	font-size: 40px;
 	line-height: 50px;
 }
 
+@media (max-width: 800px) 
+{
+	.font-title-main  {
+	font-weight: 375;
+	font-size: 30px;
+	line-height: 32px;
+	}
+}
+
 .font-subtext-main  {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 20px;
 	margin-top: 20px;
 	margin-bottom: 20px;
-	font-size: 18px;
-	font-weight: 400;
-	line-height: 20px;
+}
+
+@media (max-width: 800px) 
+{
+	.font-subtext-main  {
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 16px;
+	}
 }
 
 
@@ -81,8 +120,8 @@
 
 
 .section-main-2-sizer {
-	max-width: 1200px;
-	margin-top: 40px;
+	max-width: 1000px;
+	margin-top: 20px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -124,8 +163,9 @@
 
 
 .section-main-3-sizer {
-	max-width: 1200px;
-	margin-top: 40px;
+	max-width: 1000px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
