@@ -155,6 +155,25 @@
 	display: block;
 }
 
+@media (max-width: 800px) 
+{
+	.section-main-2-right  {
+	display: none;
+	}
+}
+
+.section-main-2-right-small {
+	align-self: center;
+	justify-self: center;
+	display: none;
+}
+
+@media (max-width: 800px) 
+{
+	.section-main-2-right-small  {
+	display: block;
+	}
+}
 
 /*-- SECTION - MAIN - 3  --*/
 .section-main-3 {
