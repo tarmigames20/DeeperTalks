@@ -1,7 +1,7 @@
 //<-- **** REDIRECT SCRIPT **** -->
 	
 //<script>
-	function Try_Download_Redirect(){
+	function button_Download_Redirect(){
 		let os = getMobileOperatingSystem();
 		if (os == "Android") {
 			window.location.href = "https://play.google.com/store/apps/details?id=com.Tarmi.GetDeeperTalks"; 
