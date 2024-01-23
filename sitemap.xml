@@ -4,152 +4,186 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
   <loc>https://www.deepertalks.com/</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/attachment-styles</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.deepertalks.com/questions-for-couples/bedroom-behaviours</loc>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/cheating</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/expressing-gratitude</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/getting-a-pet</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.deepertalks.com/questions-for-couples/getting-in-the-mood</loc>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/handling-incompatibility</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/how-we-communicate</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/living-together</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/love-languages</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/managing-conflict</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/moving-in-together</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/our-bucket-list</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/our-financial-goals</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.deepertalks.com/questions-for-couples/our-sex-life</loc>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/our-spending-habits</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/our-views-on-marriage</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/past-relationships</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/personal-goals</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/pet-peeves</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.deepertalks.com/questions-for-couples/reaching-orgasm</loc>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/receiving-feedback</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/red-flags</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/relationship-values</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.deepertalks.com/questions-for-couples/sexual-kinks</loc>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.deepertalks.com/questions-for-couples/sexual-preferences</loc>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/shared-interests-and-hobbies</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/small-things</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.deepertalks.com/questions-for-couples/spicing-it-up</loc>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/starting-a-family</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.deepertalks.com/questions-for-couples/travel-experiences-and-dreams</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <loc>https://www.deepertalks.com/questions-for-couples/travel-experiences</loc>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/your-childhood</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/your-family</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.deepertalks.com/questions-for-couples/your-teenage-self</loc>
-  <lastmod>2023-12-23T20:17:40+00:00</lastmod>
+  <lastmod>2023-12-22T22:24:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
